@@ -1,0 +1,16 @@
+
+
+Excersice 1
+Writing an instruction to find the subway
+
+Get out through the classroom door
+Turn to your left 
+Take the first right to locate elevator
+Press No 1 in the elevator to lobby
+turn to your left.
+Turn to your left again
+Leave the building through the door infront of you
+Turn to the right
+Turn to the right again at the first turn to go by the side of the same building
+At the end of the building block, cross the street
+You are at your destination.
