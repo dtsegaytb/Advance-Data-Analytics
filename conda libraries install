@@ -1,0 +1,4 @@
+open pandas cmd as admin 
+copy first line from geopandas (
+copy second line from geopy (
+run both with replying by typing 'y' for all prompts
